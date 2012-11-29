@@ -1,8 +1,8 @@
 package main
 
 import (
-	"colorterm"
 	"fmt"
+	"github.com/yongzhy/colorterm"
 )
 
 func main() {
