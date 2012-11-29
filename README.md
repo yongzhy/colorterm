@@ -9,7 +9,7 @@ Installation
 ---------------------
 From command line, issue the following command to install colorterm.
 
-    go gest github.com/yongzhy/colorterm
+    go get github.com/yongzhy/colorterm
 
 Example
 -----------------------
